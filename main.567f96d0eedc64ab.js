@@ -86,8 +86,7 @@ query RestaurantQuery($id: Int) {
     name
     email
     created
-    address
-    mobile
+    phone_number
   }
 }
 `,L=se.ZP`
